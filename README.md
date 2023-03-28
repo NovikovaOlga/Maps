@@ -15,6 +15,6 @@
  <p>
 
 ## 🛠️ Main technologies
- - **Maps: Apple **
- - **Maps: Google **
- - **Maps: Yandex **
+ - **Maps: Apple**
+ - **Maps: Google**
+ - **Maps: Yandex**
