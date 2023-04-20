@@ -57,4 +57,4 @@
     ```
    pod install
     ```
-    - Log in to the application using the file: HW_10.xcworkspace
+    - Project startup file: HW_10.xcworkspace
