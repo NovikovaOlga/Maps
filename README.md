@@ -29,9 +29,13 @@
 - A button to return to the user's location is available on each map.
  
 ## Technologies
- - **Maps: Apple**
- - **Maps: Google**
- - **Maps: Yandex**
+ - **MapKit**
+ - **GoogleMaps**
+ - **YandexMapsMobile** 
+ - **CoreLocation**
+ - **Contacts**
+ - **Animation*
+
 
  ## Access
  
