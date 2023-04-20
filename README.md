@@ -41,9 +41,9 @@
  - **Location**
  
  ## Libraries
- ''''
+ ```
  pod 'GoogleMaps'
  pod 'YandexMapsMobile', '4.0.0-lite'
- ''''
+```
  
  ## Installing and launching the application
