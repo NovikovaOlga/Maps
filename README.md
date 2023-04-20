@@ -49,8 +49,10 @@
  ## Installing and launching the application
  
 - You will need to install the framework
-    - go to the cd Maps application folder in the terminal
-
+    - go to the application folder in the terminal
+     ```
+   cd Maps
+    ```
     - install pods
     ```
    pod install
