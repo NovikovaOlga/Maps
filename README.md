@@ -36,8 +36,8 @@
  - **Contacts**
  - **Animation**
 
-
  ## Access
+ - **Location When In Use Usage Description**
  
  ## Libraries
  
