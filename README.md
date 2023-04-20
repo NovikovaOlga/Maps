@@ -47,3 +47,12 @@
 ```
  
  ## Installing and launching the application
+ 
+- You will need to install the framework
+    - go to the cd Maps application folder in the terminal
+
+    - install pods
+    ```
+   pod install
+    ```
+    - Log in to the application using the file: HW_10.xcworkspace
