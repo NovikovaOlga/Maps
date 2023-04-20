@@ -51,7 +51,7 @@
 - You will need to install the framework
     - go to the application folder in the terminal
      ```
-   cd Maps
+   cd [location of the "Maps" folder]
     ```
     - install pods
     ```
