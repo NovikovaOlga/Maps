@@ -36,9 +36,14 @@
  - **Contacts**
  - **Animation**
 
- ## Access
- - **Location When In Use Usage Description**
+ ## Privacy
+ The application will ask for access permission:
+ - **Location**
  
  ## Libraries
+ ''''
+ pod 'GoogleMaps'
+ pod 'YandexMapsMobile', '4.0.0-lite'
+ ''''
  
  ## Installing and launching the application
