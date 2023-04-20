@@ -34,7 +34,7 @@
  - **YandexMapsMobile** 
  - **CoreLocation**
  - **Contacts**
- - **Animation*
+ - **Animation**
 
 
  ## Access
