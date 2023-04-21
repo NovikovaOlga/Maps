@@ -51,10 +51,10 @@
 - You will need to install the framework
     - go to the application folder in the terminal
      ```
-   cd [location of the "Maps" folder]
+   cd [location of the project folder]
     ```
     - install pods
     ```
    pod install
     ```
-    - Project startup file: HW_10.xcworkspace
+    - Project startup file: .xcworkspace
