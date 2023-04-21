@@ -1,6 +1,6 @@
 # Maps
 
-## 🧟‍♂️🗺️ Working with maps. 
+## 🧟‍♂️🗺️ Working with maps: Apple, Google, Yandex. 
 
 ## Description
 <p> The application is designed for demonstration maps: Apple, Google, Yandex, for example, the popular game. </p>
